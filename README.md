@@ -1,2 +1,2 @@
 # keras
-A central place to keep Keras scripts
+A central place to keep Keras runs
